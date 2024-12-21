@@ -1,0 +1,6 @@
+---
+title: "Will Github Understand This .adoc File"
+author: Ari Selpama Diutri
+date: 2024-12-22
+---
+= Will Github Understand this
